@@ -17,4 +17,6 @@ elif st.button(''':rainbow[การแปลงข้อมูล]'''):
 elif st.button(''':rainbow[การวิเคราะห์ข้อมูลเชิงสำรวจ]'''):
     st.switch_page("pages/EDA_app.py")
 elif st.button(''':rainbow[การพยากรณ์ยอดขายแบบง่าย]'''):
-    st.switch_page("pages/sale_predict.py") 
+    st.switch_page("pages/sale_predict.py")
+elif st.button(''':rainbow[ข้อมูลรถบรรทุกที่ต้องการพยากรณ์]'''):
+    st.switch_page("pages/truck_predict.py") 
