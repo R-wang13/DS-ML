@@ -70,7 +70,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #f0f2f6; /* Light grey background */
+        background-color: #f0f2f6; /* drak background */
         color: #31333F;
     }
     .st-emotion-cache-1gsv4o2 {
