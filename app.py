@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="MyApp", layout="wide")
 
-st.title(''':plasma[R-Wang 13 T]''')
+st.title(''':rainbow[R-Wang 13 T]''')
 st.title("🏠 หน้าหลัก ")
 st.write("### Boot Camp: Data Science and Machine Learning")
 st.info("7 Day Intensive Hands-on Workshop")
