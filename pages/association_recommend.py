@@ -71,7 +71,7 @@ st.markdown(
     <style>
     .stApp {
         background-color: #f0f2f6; /* dark background */
-        color: #13111F;
+        color: #31333F;
     }
     .st-emotion-cache-1gsv4o2 {
         background-color: #f0f2f6;
@@ -92,7 +92,7 @@ st.markdown(
     }
     .stButton>button:hover {
         background-color: #8C0018; /* Darker red on hover */
-        color: white;
+        color: Darker;
     }
     .reportview-container .main .block-container{padding-top:1rem;padding-right:1rem;padding-left:1rem;padding-bottom:1rem;}
     </style>
