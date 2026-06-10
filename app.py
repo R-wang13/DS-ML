@@ -2,6 +2,11 @@ import streamlit as st
 
 st.set_page_config(page_title="MyApp", layout="wide")
 
+st.markdown('''
+:red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
+:gray[pretty] :rainbow[colors] and :blue-background[highlight] text
+''')
+
 st.title(''':rainbow[R-Wang 13 T]''')
 st.title("🏠 หน้าหลัก ")
 st.write("### Boot Camp: Data Science and Machine Learning")
